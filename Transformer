@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T08:00:44.782Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="A8_oq6T9CY5dgPopuHuB" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T08:07:45.326Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="V3vALubayrAZqXV25Ryi" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
-    <mxGraphModel dx="2398" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1162,6 +1162,9 @@
           <mxGeometry x="0.7168" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-600" value="&lt;font color=&quot;#000000&quot;&gt;这里忽略了Mutlti Head这个操作&lt;br&gt;Multi Head是吧QKV分别拆成n_head份，&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;再做scale dot product&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;attention，最后再concate到一起&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="-460" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
