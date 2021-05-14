@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T01:13:28.794Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VHmSjGInJEDEJyAeCBYT" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T01:15:39.563Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="CQYgLyW1b_wcWQ7CjCkJ" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
     <mxGraphModel dx="3559" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1164,7 +1164,7 @@
             <mxPoint x="-1198.75" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9M5mU8N5eAirC4V4CBhz-850" value="&lt;b style=&quot;color: rgb(255 , 0 , 0) ; font-size: 13px&quot;&gt;N*n_head*d_k*d_k&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00FF00;" vertex="1" connectable="0" parent="9M5mU8N5eAirC4V4CBhz-843">
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-850" value="&lt;b style=&quot;color: rgb(255 , 0 , 0) ; font-size: 13px&quot;&gt;N*n_head*length*length&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00FF00;" vertex="1" connectable="0" parent="9M5mU8N5eAirC4V4CBhz-843">
           <mxGeometry x="-0.872" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="14" as="offset" />
           </mxGeometry>
@@ -1490,6 +1490,11 @@
         <mxCell id="9M5mU8N5eAirC4V4CBhz-851" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;" edge="1" parent="1" source="9M5mU8N5eAirC4V4CBhz-848">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1198.75" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-853" value="&lt;b style=&quot;color: rgb(255 , 0 , 0) ; font-size: 13px&quot;&gt;N*n_head*length*d_k&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00FF00;" vertex="1" connectable="0" parent="9M5mU8N5eAirC4V4CBhz-851">
+          <mxGeometry x="-0.2376" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9M5mU8N5eAirC4V4CBhz-848" value="&lt;font color=&quot;#000000&quot;&gt;X&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#00FF00;" vertex="1" parent="1">
