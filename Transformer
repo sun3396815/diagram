@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T08:50:55.198Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="q58j9_r4Bluc7sQQj0A7" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T08:55:19.869Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Ela8r05INWKtriqFiR5c" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
-    <mxGraphModel dx="3218" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4007" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2384,7 +2384,7 @@
         <mxCell id="9M5mU8N5eAirC4V4CBhz-1610" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontColor=#00FF00;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-1243.4399999999998" y="1704" width="146.87" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9M5mU8N5eAirC4V4CBhz-1616" value="&lt;span&gt;输出一个字符的预测，取概率前topk个，构成topk*max&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-1616" value="&lt;span&gt;输出一个字符的预测，取概率前topk个，构成topk*max_length&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1304.3" y="1870" width="268.6" height="70" as="geometry" />
         </mxCell>
       </root>
