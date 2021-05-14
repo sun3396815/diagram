@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T09:53:19.144Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-ZE1Kk1PyLgZ1fruXYYQ" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T09:53:29.803Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="IuBQCY4fUsLF6mcKzChW" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
     <mxGraphModel dx="3371" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2423,7 +2423,7 @@
             <mxPoint x="81" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9M5mU8N5eAirC4V4CBhz-1624" value="&lt;span style=&quot;color: rgb(70 , 73 , 93)&quot;&gt;重复max_length次，或者topk条预测中每一条都有结束符&lt;br&gt;每一个Decoder的输出的当前step位置的输出更新到输出结果中，再把输出结果作为下一次Decoder的输入&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-1624" value="&lt;span style=&quot;color: rgb(70 , 73 , 93)&quot;&gt;重复max_length次，或者topk条预测中每一条都有结束符&lt;br&gt;&lt;br&gt;每一个Decoder的输出的当前step位置的输出更新到输出结果中，再把输出结果作为下一次Decoder的输入&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1059.2999999999997" y="2025" width="314.3" height="70" as="geometry" />
         </mxCell>
       </root>
