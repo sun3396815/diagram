@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T05:11:58.881Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="g3R3kun8fY6fp9dsdG-A" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T08:12:59.515Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="UyvByaicsWLTVheemE3u" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
-    <mxGraphModel dx="3612" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11528" dy="6349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2344,6 +2344,9 @@
         </mxCell>
         <mxCell id="9M5mU8N5eAirC4V4CBhz-1590" value="&lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;linear&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-155" y="910" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-1602" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 60px&quot;&gt;How to inference&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="-2250" y="1530" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
