@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T01:59:23.201Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="v2DANWpbHq2YCQhiqPKz" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T02:09:20.732Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Ex08L5cg7PNVD5MYoEcl" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
-    <mxGraphModel dx="4077" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4743" dy="2464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1540,8 +1540,8 @@
         <mxCell id="9M5mU8N5eAirC4V4CBhz-871" value="&lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;layer norm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-1233.75" y="-50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9M5mU8N5eAirC4V4CBhz-877" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;MultiHeadAttention&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="-255" width="170" height="20" as="geometry" />
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-877" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px&quot;&gt;MultiHeadAttention * n&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="-260" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9M5mU8N5eAirC4V4CBhz-880" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;" edge="1" parent="1" source="9M5mU8N5eAirC4V4CBhz-878">
           <mxGeometry relative="1" as="geometry">
@@ -1596,6 +1596,9 @@
         </mxCell>
         <mxCell id="9M5mU8N5eAirC4V4CBhz-897" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;PositionWiseFeedForward&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-1545" y="155" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-898" value="&lt;font color=&quot;#000000&quot;&gt;Q: 1. 训练的时候答案输入到decoder中，那推理的时候呢？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="-970" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
