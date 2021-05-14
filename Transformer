@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T03:42:09.350Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-5Wf_lvAZUg57YMFFY3a" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T03:44:49.760Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="669LQjWZXaMEBt2dQY4i" version="14.6.12" type="github">
   <diagram id="uhT-gi_9c4k7hzQVl9XG" name="Page-1">
-    <mxGraphModel dx="6289" dy="3257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3787" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2318,6 +2318,16 @@
         </mxCell>
         <mxCell id="9M5mU8N5eAirC4V4CBhz-1574" value="&lt;i&gt;&lt;font color=&quot;#3333ff&quot;&gt;d_v&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-45" y="560" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-1588" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#000000;fillColor=#B2C9AB;" edge="1" parent="1" source="9M5mU8N5eAirC4V4CBhz-1580">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9M5mU8N5eAirC4V4CBhz-1589" value="&lt;span style=&quot;color: rgb(51 , 51 , 255) ; font-size: 13px&quot;&gt;N*t_length*d_mode&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;" vertex="1" connectable="0" parent="9M5mU8N5eAirC4V4CBhz-1588">
+          <mxGeometry x="0.143" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="24" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9M5mU8N5eAirC4V4CBhz-1580" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-243.75" y="760" width="227.5" height="130" as="geometry" />
